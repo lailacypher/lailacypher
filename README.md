@@ -55,7 +55,7 @@
 - **JavaScript (Intermediate):**
   Experienced in vanilla JavaScript for web applications and focusing on expanding knowledge of asynchronous programming.
 
-  ## Blackhat Hacker
+### Blackhat Hacker
 I specialize in cybersecurity from a blackhat perspective, constantly exploring and exploiting vulnerabilities in systems and networks. I am highly skilled in penetration testing, ethical hacking, and developing sophisticated attack strategies to uncover weaknesses in digital environments. My knowledge spans across areas such as system exploitation, malware creation, social engineering, and bypassing security protocols. I thrive on outsmarting defenses, breaking through firewalls, and gaining unauthorized access to protected systems. While I work with these techniques for educational purposes and to advance my own skills, I understand the consequences of cybercrimes and the importance of staying informed in an ever-evolving digital landscape.
 
 
