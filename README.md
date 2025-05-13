@@ -61,4 +61,4 @@ I specialize in cybersecurity from a blackhat perspective, constantly exploring 
 
 ### Contact me on:
 
-<a href="mailto:laila.cypher19@proton.me"><img loading="https://img.shields.io/badge/ProtonMail-7B68EE?style=for-the-badge&logo=protonl&logoColor=white"%20target"_blank="></a>
+<a href="mailto:laila.cypher19@proton.me"><img loading="lazy" src="https://img.shields.io/badge/ProtonMail-7B68EE?style=for-the-badge&logo=protonl&logoColor=white" target="_blank"></a>
